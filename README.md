@@ -29,8 +29,8 @@ import warnings
 
 Additionally, we use these 4 datasets to conduct our experiment: 
 
-   1. deepset/prompt-injections - Standard injection examples
-    2. Harelix/Prompt-Injection-Mixed-Techniques-2024 - Advanced attack methods
-    3. jackhhao/jailbreak-classification - Jailbreak patterns (unseen category)
-    4. alespalla/chatbot_instruction_prompts - Normal user prompts
+1. deepset/prompt-injections - Standard injection examples
+2. Harelix/Prompt-Injection-Mixed-Techniques-2024 - Advanced attack methods
+3. jackhhao/jailbreak-classification - Jailbreak patterns (unseen category)
+4. alespalla/chatbot_instruction_prompts - Normal user prompts
 
